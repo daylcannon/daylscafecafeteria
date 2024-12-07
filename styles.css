@@ -36,7 +36,7 @@ button:active {
 /* Form container styling */
 #gecko-form-iframe-embed-21FO00y2so00iu00dfa3koupij {
     width: 90% !important; 
-    max-width: 300px !important; /* Do not exceed 300px */
+    max-width: 600px !important; /* Do not exceed 300px */
     margin: auto !important; /* Center-align the form */
     padding: 10px !important; /* Add spacing inside the container */
     background-color: #f9f9f9 !important; /* Optional: light background for contrast */
