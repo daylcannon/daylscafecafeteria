@@ -34,28 +34,28 @@ button:active {
 }
 
 /* Form container styling */
-#form-container {
-    width: 90%; /* Flexible width for smaller screens */
-    max-width: 300px; /* Do not exceed 300px */
-    margin: auto; /* Center-align the form */
-    padding: 10px; /* Add spacing inside the container */
-    background-color: #f9f9f9; /* Optional: light background for contrast */
-    border: 1px solid #ddd; /* Optional: subtle border */
-    border-radius: 5px; /* Rounded corners for consistency */
+#gecko-form-iframe-embed-21FO00y2so00iu00dfa3koupij {
+    width: 90% !important; 
+    max-width: 300px !important; /* Do not exceed 300px */
+    margin: auto !important; /* Center-align the form */
+    padding: 10px !important; /* Add spacing inside the container */
+    background-color: #f9f9f9 !important; /* Optional: light background for contrast */
+    border: 1px solid #ddd !important; /* Optional: subtle border */
+    border-radius: 5px !important; /* Rounded corners for consistency */
 }
 
 /* iframe styling within the container */
-#form-container iframe {
-    width: 100%; /* Ensure iframe fits the container */
+#gecko-form-iframe-embed-21FO00y2so00iu00dfa3koupij iframe {
+    width: 100% !important; /* Ensure iframe fits the container */
 }
 
 /* Additional suggestions for responsiveness */
 @media (max-width: 480px) {
     body {
-        margin: 10px; /* Reduce margin on smaller devices */
+        margin: 10px !important; /* Reduce margin on smaller devices */
     }
 
     button {
-        padding: 8px 16px; /* Adjust button size for smaller screens */
+        padding: 8px 16px !important; /* Adjust button size for smaller screens */
     }
 }
